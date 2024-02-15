@@ -7,3 +7,5 @@ onClick={()=>{props.sendData(props.id)}}>X</button>
     </>
 }
 export default Plan;
+test = 4;
+console.log (test);
